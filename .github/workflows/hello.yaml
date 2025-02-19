@@ -1,6 +1,6 @@
 name: Hello
 
-on:push
+on: push
     #push:
     #branches-ignore:
     #  - "**"
